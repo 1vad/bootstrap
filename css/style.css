@@ -1,0 +1,34 @@
+
+body {
+    font: 20px Verdana;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.rounded-circle {
+    margin-left: 15px;
+}
+
+.quem-somos {
+    background-color: #ff8800;
+}
+.margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parceiros {
+    background-color: #15ff00;
+    color: gray;
+}
+
+.text {
+    margin-top: 20px;
+    font: 10px;
+}
+
+.serviços {
+    background-color: yellow;
+}
